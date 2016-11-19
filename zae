@@ -31,7 +31,6 @@
 
 <link href="/bitrix/cache/css/s1/main/kernel_main/kernel_main.css?147912942644417" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/cache/css/s1/main/page_b2c03eb6477c7a8a48786821f2377cca/page_b2c03eb6477c7a8a48786821f2377cca.css?147912760110113" type="text/css"  rel="stylesheet" />
-<link href="/bitrix/panel/main/popup.min.css?146546700220704" type="text/css"  rel="stylesheet" />
 <link href="/bitrix/cache/css/s1/main/template_ed7f297847c791924892dff80c434cb0/template_ed7f297847c791924892dff80c434cb0.css?1479127601585665" type="text/css"  data-template-style="true"  rel="stylesheet" />
 
 
@@ -3978,4 +3977,4 @@ newYear = new Date(2016, 1-1, 1, 0);
 $(".counter").countdown({until: newYear, format: 'dHMS'});
 </script>
 </body>
-</html><!--ba8af476be0e25ba46d7684c7b53dd84-->
+</html><!--02d86c334a51df657bd47eed1fbf48ad-->
