@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2016.9.13)  29 NOV 2016 03:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2016.9.13)  3 DEC 2016 01:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**m4_LATEXfile.tex
-(./m4_LATEXfile.tex
+**book_5.tex
+(./book_5.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
@@ -361,8 +361,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip58
 ))
-(./m4_LATEXfile.aux)
-\openout1 = `m4_LATEXfile.aux'.
+(./book_5.aux)
+\openout1 = `book_5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
 LaTeX Font Info:    ... okay on input line 42.
@@ -433,12 +433,15 @@ LaTeX Info: Redefining \ref on input line 42.
 LaTeX Info: Redefining \pageref on input line 42.
 LaTeX Info: Redefining \nameref on input line 42.
 
-(./m4_LATEXfile.out) (./m4_LATEXfile.out)
+(./book_5.out) (./book_5.out)
 \@outlinefile=\write3
-\openout3 = `m4_LATEXfile.out'.
+\openout3 = `book_5.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 47.
-
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -670,10 +673,10 @@ Package babel Info: Redefining russian shorthand "~
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 248.
- (./m4_LATEXfile.aux)
+ (./book_5.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 248.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 248.
-Package rerunfilecheck Info: File `m4_LATEXfile.out' has not changed.
+Package rerunfilecheck Info: File `book_5.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
@@ -682,12 +685,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 248.
  ) 
 Here is how much of TeX's memory you used:
- 11717 strings out of 493030
- 159183 string characters out of 6136260
+ 11719 strings out of 493030
+ 159151 string characters out of 6136260
  252265 words of memory out of 5000000
- 15137 multiletter control sequences out of 15000+600000
+ 15139 multiletter control sequences out of 15000+600000
  11978 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,43p,341b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,43p,335b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on m4_LATEXfile.dvi (5 pages, 19964 bytes).
+Output written on book_5.dvi (5 pages, 19876 bytes).
